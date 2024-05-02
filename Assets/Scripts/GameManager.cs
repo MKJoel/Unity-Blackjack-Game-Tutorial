@@ -12,6 +12,13 @@ public class GameManager : MonoBehaviour
     public Button hitBtn;
     public Button standBtn;
     public Button betBtn;
+    public Button B10K;
+    public Button B25K;
+    public Button B50K;
+    public Button B100K;
+    public Button B250K;
+    public Button B500K;
+
 
     private int standClicks = 0;
 
